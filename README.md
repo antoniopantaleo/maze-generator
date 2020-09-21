@@ -6,7 +6,7 @@ The inspiration came from this [code train mini-series](https://www.youtube.com/
 
 # Algorithm in action
 
-Go from the red dot to the blue on!
+Go from the red dot to the blue one!
 ![GIF](assets/example.gif)
 
 ### Dependecies
