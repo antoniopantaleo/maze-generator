@@ -9,10 +9,6 @@ The inspiration came from this [code train mini-series](https://www.youtube.com/
 Go from the red dot to the blue on!
 ![GIF](assets/example.gif)
 
-<p align="center">
-    <img src="assets/example.gif" width="237" height="471" alt="Sliding Panel demo1">
-</p>
-
 ### Dependecies
 
 The project uses the following libraries:
