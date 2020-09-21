@@ -7,7 +7,7 @@ The inspiration came from this [code train mini-series](https://www.youtube.com/
 # Algorithm in action
 
 Go from the red dot to the blue on!
-![GIF](https://i.ibb.co/7J99z7N/Registrazione-schermo-2020-06-06-alle-18-01-29.gif)
+![GIF](assets/exaple.gif)
 
 ### Dependecies
 
